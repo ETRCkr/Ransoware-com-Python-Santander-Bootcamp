@@ -1,7 +1,7 @@
 # Ransoware-com-Python-Santander-Bootcamp
 Criando um Ransoware com Python - Etapa inicial 
 
-Registrei o passo a passo realizado para a crianção de um Ransoware com Python. Compartilho aqui a etapa inicial do projeto:
+Registrei o passo a passo realizado para a criação de um Ransoware com Python. Compartilho aqui a etapa inicial do projeto:
 Utilizei a ferramenta Visual Studio Code para criar os códigos e executar em ambiente seguro:
 
 Fizemos a parte da geração das senhas, da chave de criptográfica e salvar:
